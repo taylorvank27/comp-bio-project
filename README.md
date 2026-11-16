@@ -1,13 +1,11 @@
 # Comp Bio project template
 # Dating the ancestor of SARS-CoV-2
 
-Author: Taylor Van Kralingen 
+Author: Taylor Van Kralingen
 
 A reproducible molecular clock analysis of 24
 SARS-CoV-2 genomes, for BIOL 5/6800.
 
-This repository is a starting point for your own computational biology
-project.
 It sets you up with a ***codespace***: A Linux computer in the cloud that you
 use through your web browser.
 Your codespace comes with:
